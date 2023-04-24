@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SocialMediaApp</string>
+    <string name="Text1">register</string>
+    <string name="Text2">login</string>
+    <string name="Login">Text2</string>
+    <string name="register">register</string>
+    <string name="login">login</string>
+</resources>

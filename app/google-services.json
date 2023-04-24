@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "827681002581",
+    "project_id": "socialmediaapp-7cb46",
+    "storage_bucket": "socialmediaapp-7cb46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827681002581:android:fa662fd4051a244c4430dc",
+        "android_client_info": {
+          "package_name": "uk.ac.tees.c2372619.socialmediaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827681002581-n78ercfriq9bc7vsqqcc2onvuud5evas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTZA1MC6PagUOsHa8wbNILreBsz3lBCfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827681002581-n78ercfriq9bc7vsqqcc2onvuud5evas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
